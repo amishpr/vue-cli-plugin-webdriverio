@@ -1,0 +1,22 @@
+{
+  "name": "vue-cli-plugin-webdriverio",
+  "version": "1.0.0",
+  "description": "WebdriverIO Plugin for vue-cli 3",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "vue-cli-plugin-webdriverio",
+    "webdriverio",
+    "e2e"
+  ],
+  "author": "Amish Prajapati",
+  "license": "MIT",
+  "dependencies": {
+    "webdriverio": "^4.13.1"
+  }
+}
