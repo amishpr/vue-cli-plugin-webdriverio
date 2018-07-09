@@ -18,5 +18,9 @@
   "license": "MIT",
   "dependencies": {
     "webdriverio": "^4.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javacoldbrew/vue-cli-plugin-webdriverio.git"
   }
 }
